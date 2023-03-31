@@ -16,7 +16,5 @@ import { PrismaModule } from './prisma/prisma.module';
     BookmarkModule,
     PrismaModule,
   ],
-  controllers: [],
-  providers: [],
 })
 export class AppModule {}
